@@ -171,7 +171,7 @@ Designed for real-world personal finance management, suitable for demonstration,
 ---
 
 ## Demo Credentials
-
+(https://expense-tracker-9060.ai.studio/)
 For quick evaluation without manual sign-up:
 * **Email**: `demo@expensetracker.com`
 * **Password**: `DemoUser123!`
